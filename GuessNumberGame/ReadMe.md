@@ -1,4 +1,4 @@
-Guess Number Game
+# Guess Number Game
 
 Project Emphasis:
 Swing DocumentListener utilized. To create a responsive Number guessing game using colors as a hint in number guess progression.
