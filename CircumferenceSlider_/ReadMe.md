@@ -1,4 +1,4 @@
-#Circumference Slider
+Circumference Slider
 
 Project Emphasis:
 Swing and awt.graphics components used - Slider & Paint. 
