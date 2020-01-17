@@ -1,4 +1,4 @@
-# SelectigShapes
+# SelectingShapes
 
 Project Emphasis:
 Utilizing java.awt.Graphics paint method
